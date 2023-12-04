@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d38c0bf2.css",
-    "main.js": "/static/js/main.20225873.js",
-    "static/media/Ubuntu-Regular.woff2": "/static/media/Ubuntu-Regular.6ebae6bb2ea04cdead4f.woff2",
-    "static/media/UbuntuCondensed-Regular.woff2": "/static/media/UbuntuCondensed-Regular.e5bce02a514ae8b2ac96.woff2",
-    "index.html": "/index.html",
-    "main.d38c0bf2.css.map": "/static/css/main.d38c0bf2.css.map",
-    "main.20225873.js.map": "/static/js/main.20225873.js.map"
+    "main.css": "/ogreencakeo-dc-pj/static/css/main.e3dc917c.css",
+    "main.js": "/ogreencakeo-dc-pj/static/js/main.e2a16a4f.js",
+    "static/media/Ubuntu-Regular.woff2": "/ogreencakeo-dc-pj/static/media/Ubuntu-Regular.6ebae6bb2ea04cdead4f.woff2",
+    "static/media/UbuntuCondensed-Regular.woff2": "/ogreencakeo-dc-pj/static/media/UbuntuCondensed-Regular.e5bce02a514ae8b2ac96.woff2",
+    "index.html": "/ogreencakeo-dc-pj/index.html",
+    "main.e3dc917c.css.map": "/ogreencakeo-dc-pj/static/css/main.e3dc917c.css.map",
+    "main.e2a16a4f.js.map": "/ogreencakeo-dc-pj/static/js/main.e2a16a4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d38c0bf2.css",
-    "static/js/main.20225873.js"
+    "static/css/main.e3dc917c.css",
+    "static/js/main.e2a16a4f.js"
   ]
 }
